@@ -123,10 +123,13 @@ urlpatterns=[
 
 
 ## SERVER SIDE PROCESSING:
-![alt text](<vidhyashree/myapp/templates/myapp/Screenshot 2025-10-03 050218.png>)
+![alt text](<Screenshot 2025-10-03 050218.png>)
+
 
 ## HOMEPAGE:
-![alt text](<vidhyashree/myapp/templates/myapp/Screenshot 2025-10-03 050153.png>)
+![alt text](<Screenshot 2025-10-03 050153.png>)
+
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
